@@ -32,8 +32,8 @@
    
  
 ## Introduction 
-This article is devoted to introducing elliptic curves. Some of the more modern public key systems make use of elliptic curves since they can offer improved efficiency and bandwidth.
-Elliptic curves are applicable for key agreement, digital signature, pseudo-random generators, and etc.
+This article is devoted to introducing elliptic curves. Some of the more modern public key systems make use of elliptic curves since they can offer improved efficiency and bandwidth.\
+Elliptic curves are applicable for key agreement, digital signature, pseudo-random generators, and etc.\
 Elliptic Curve Cryptography (ECC) is a form of public-key cryptography that relies on the algebraic properties of elliptic curves defined over finite fields. Compared to traditional systems like RSA and ElGamal, which are based on modular exponentiation in Galois fields, ECC achieves the same level of security using significantly smaller key sizes.
 ## Elliptic Curves and Cryptography 
 ### 1. Elliptic Curves.
