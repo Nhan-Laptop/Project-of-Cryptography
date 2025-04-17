@@ -44,5 +44,5 @@ $$
 $$
 
 where A and B are constants. This will be referred to as the Weierstrass equation of an elliptic curve. We will denote that A,B,x are belong to a set. Usually, they will be taken to be a set of elements of a field, for instance, the real number $\mathbb{R}$, the complex bumbers $\mathbb{C}$, the rational number $\mathbb{Q}$, one of the finite fields $F_p \ (=Z_p)$ for a prime p, or one of the finite fields $F_q$, with $q=p^k\ | \ k \in [1,\infty]$ .
-In this article, let's assume that: $K$ be any field, the set of points in $E$ if defined over $K$.
+In this article, let's assume that: $K$ be any field, the set of points in $E$ is defined over $K$.
 
